@@ -1,4 +1,4 @@
-# Sales Documentation & Management System (SDMS) 📊
+README.md
 
 A professional management system built with **C++** using **Object-Oriented Programming (OOP)** concepts. This project was developed as part of my graduation project for the OOP course.
 
